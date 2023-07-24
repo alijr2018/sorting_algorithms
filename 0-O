@@ -1,4 +1,4 @@
-Now let's discuss the big O notations of the time complexity for the Bubble sort algorithm:
+The big O notations of the time complexity of the time complexity for the Bubble sort algorithm:
 
 Best case: O(n)
 The best case occurs when the input array is already sorted. In this situation, the Bubble sort algorithm will make a single pass through the array without any swaps. The algorithm will detect that the array is sorted and terminate immediately.
