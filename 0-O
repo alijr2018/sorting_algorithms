@@ -1,0 +1,10 @@
+Now let's discuss the big O notations of the time complexity for the Bubble sort algorithm:
+
+Best case: O(n)
+The best case occurs when the input array is already sorted. In this situation, the Bubble sort algorithm will make a single pass through the array without any swaps. The algorithm will detect that the array is sorted and terminate immediately.
+
+Average case: O(n^2)
+On average, Bubble sort performs n^2/2 comparisons and n^2/2 swaps, where n is the number of elements in the array. This makes it an inefficient sorting algorithm for large datasets.
+
+Worst case: O(n^2)
+The worst-case scenario occurs when the input array is in reverse order or in descending order. In this case, Bubble sort will require the maximum number of comparisons and swaps, resulting in a time complexity of O(n^2).
