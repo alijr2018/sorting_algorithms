@@ -998,17 +998,4 @@ alex@/tmp/sort$
 
   </div>
 
-  <div class="list-group">
-    <!-- Task URLs -->
-
-    <!-- Github information -->
-      <div class="list-group-item">
-        <p><strong>Repo:</strong></p>
-        <ul>
-          <li>GitHub repository: <code>sorting_algorithms</code></li>
-            <li>File: <code>3-quick_sort.c, 3-O</code></li>
-        </ul>
-      </div>
-
-    <!-- Self-paced manual review -->
   </div>
