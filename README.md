@@ -922,7 +922,7 @@ alex@/tmp/sort$
 
   <div class="panel-heading panel-heading-actions">
     <h3 class="panel-title">
-      3. Quick sort
+     3. Quick sort
     </h3>
 
     <div>
@@ -1011,4 +1011,4 @@ alex@/tmp/sort$
       </div>
 
     <!-- Self-paced manual review -->
- 
+  </div>
