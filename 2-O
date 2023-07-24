@@ -1,0 +1,10 @@
+The big O notations of the time complexity of the Selection sort algorithm are as follows:
+
+Best case: O(n^2)
+The best-case scenario occurs when the input array is already sorted. In this case, the Selection sort algorithm still performs n^2/2 comparisons, even though no swaps are needed.
+
+Average case: O(n^2)
+On average, the Selection sort algorithm performs approximately n^2/2 comparisons and n swaps, where n is the number of elements in the array. This makes it an inefficient sorting algorithm for large datasets.
+
+Worst case: O(n^2)
+The worst-case scenario occurs when the input array is in reverse order or in descending order. In this case, the Selection sort algorithm requires the maximum number of comparisons and swaps, resulting in a time complexity of O(n^2).
