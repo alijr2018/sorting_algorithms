@@ -3,10 +3,6 @@
     <p><img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/248/willy-wonka.png" /><br />
 <br /></p>
 
-<h2>Background Context</h2>
-
-<p>This project is meant to be done by groups of two students. Each group of two should <a href="/rltoken/gIcHRL9I7i1lw2CTAll37A" title="pair program" target="_blank">pair program</a> for at least the mandatory part.</p>
-
 <h2>Resources</h2>
 
 <p><strong>Read or watch</strong>:</p>
