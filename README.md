@@ -16,10 +16,6 @@
 <li><a href="/rltoken/21X_eaj5RGcLIL9mZv2sqw" title="All about sorting algorithms" target="_blank">All about sorting algorithms</a></li>
 </ul>
 
-<h2>Learning Objectives</h2>
-
-<p>At the end of this project, you are expected to be able to <a href="/rltoken/b-QhraVUoSGmQ1C4QfNoFw" title="explain to anyone" target="_blank">explain to anyone</a>, <strong>without the help of Google</strong>:</p>
-
 <h3>General</h3>
 
 <ul>
@@ -27,15 +23,6 @@
 <li>What is the Big O notation, and how to evaluate the time complexity of an algorithm</li>
 <li>How to select the best sorting algorithm for a given input</li>
 <li>What is a stable sorting algorithm</li>
-</ul>
-
-<h3>Copyright - Plagiarism</h3>
-
-<ul>
-<li>You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.</li>
-<li>You will not be able to meet the objectives of this or any following project by copying and pasting someone else&rsquo;s work. </li>
-<li>You are not allowed to publish any content of this project.</li>
-<li>Any form of plagiarism is strictly forbidden and will result in removal from the program.</li>
 </ul>
 
 <h2>Requirements</h2>
@@ -57,10 +44,6 @@
 <li>All your header files should be include guarded</li>
 <li>A list/array does not need to be sorted if its size is less than 2.</li>
 </ul>
-
-<h3>GitHub</h3>
-
-<p><strong>There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.</strong></p>
 
 <h2>More Info</h2>
 
@@ -163,15 +146,3 @@ If an answer is required within a file, all your answers files must have a newli
 
   </div>
 </div>
-
-
-      
-
-        <div class="panel panel-default" id="project-quiz-questions-title">
-    <div class="panel-heading">
-      <h3 class="panel-title">
-        Quiz questions
-      </h3>
-    </div>
-
-    <div class="panel-body">
