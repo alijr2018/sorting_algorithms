@@ -151,6 +151,12 @@ If an answer is required within a file, all your answers files must have a newli
     <h3 class="panel-title">
       0. Bubble sort
     </h3>
+
+    <div>
+        <span class="label label-info">
+          mandatory
+        </span>
+    </div>
   </div>
 
   <div class="panel-body">
