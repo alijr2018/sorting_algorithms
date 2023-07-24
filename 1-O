@@ -1,0 +1,10 @@
+The big O notations of the time complexity of the Insertion sort algorithm are as follows:
+
+Best case: O(n)
+The best-case scenario occurs when the linked list is already sorted. In this case, the insertion_sort_list function will make a single pass through the list without any swaps, resulting in a time complexity of O(n).
+
+Average case: O(n^2)
+On average, the Insertion sort algorithm performs approximately n^2/4 comparisons and n^2/4 swaps, where n is the number of elements in the list. This makes it an inefficient sorting algorithm for large linked lists.
+
+Worst case: O(n^2)
+The worst-case scenario occurs when the linked list is sorted in reverse order. In this case, the insertion_sort_list function will require the maximum number of comparisons and swaps, resulting in a time complexity of O(n^2).
